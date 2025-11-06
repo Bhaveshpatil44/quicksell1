@@ -1,1 +1,1 @@
-# quicksell
+# quicksell assignment for React exam 
